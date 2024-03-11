@@ -36,7 +36,7 @@
 </p>
 
 ```javascript
-const Fanatic = {
+const mernFanatic = {
   status: "Student🧑🏻‍🎓",
   alterEgo: "Gotham's Code Crusader 🦇",
   interests: "Building web apps with the MERN stack! 🚀",
