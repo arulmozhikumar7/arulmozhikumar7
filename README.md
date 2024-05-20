@@ -1,66 +1,82 @@
-<h2> Hello, I'm Arulmozhikumar, MERN Stack Fanatic! 👋 </h2>
+
 <img align='right' src="https://thebatmanuniverse.net/wp-content/uploads/2019/02/tbu-why-i-write.jpg" width="230">
-<p><em>Student by Day, MERN Developer by Night</em>🦇</br><em>Available for Freelance Projects!</em>💼</p>
 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arulmozhikumar!;" />
+</h1>
+
+<h3 align="center">A passionate Full-Stack Web Developer</h3>
+
+<br/>
+
+<div align="center"> 
+  <a href="mailto:arulmozhikumar7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/arulmozhikumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://www.arulmozhikumar.online" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     </a>
+</div>
+
+ <hr/>
+
+
+ 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+# <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **a React js Projects**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="25"> I'm a quick learner And I’m currently learning **Three js and Typescript**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Node.js, React, Express.js, MongoDB...** <br />
+:hearts: &emsp;I enjoy programming and sharing knowledge <br />
+:computer: &emsp;Most used line of code `console.log("I am vengeance 🦇")` <br />
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **arulmozhikumar7@gmail.com**
+<div align="center">
+<h2 align="center">⚒️ Things I code with ⚒️</h2>
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+ 
+ </div>
+ 
+<hr />
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,vercel" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
- <h3>Things I code with</h3>
-<p>
- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="express"
-  src="https://img.shields.io/badge/Express.js-404D59?style=flat-sqaure&logo=express&logoColor=white"
-  />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-     <img alt="TailwindCss"
-  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-   <img alt="vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github"/>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Windows" 
-  src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-  <img alt="reactrouter"
-  src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
-  <img alt="VisualStudioCode"
-  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="vercel"
-  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img alt="render"
-  src="https://img.shields.io/badge/Render-FAF9F6?style=flat-square&logo=Render"/>
-  <img alt="amd"
-  src="https://img.shields.io/badge/AMD-_RYZEN_5000 series-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
-</p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arulmozhikumar7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=arulmozhikumar7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arulmozhikumar7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-```javascript
-const mernFanatic = {
-  status: "Student🧑🏻‍🎓",
-  alterEgo: "Gotham's Code Crusader 🦇",
-  interests: "Building web apps with the MERN stack! 🚀",
-  availability: "Currently available for freelance projects! 💼",
-  fullstackExploration: [
-    "🎨 Delving into the intricacies of front-end development with React.js and CSS frameworks",
-    "🛠️ Mastering server-side programming with Node.js and Express.js",
-    "📊 Diving deep into database management with MongoDB and exploring SQL alternatives",
-    "🚀 Understanding the art of deploying and maintaining full-stack applications",
-    "🔍 Exploring the latest trends and best practices in full-stack development"
-  ],
-  learningGoals: [
-    "🚀 Mastering advanced React.js concepts such as Redux, Context API, and Hooks.",
-    "💻 Deepening my understanding of Node.js by exploring advanced topics like authentication, authorization, and RESTful API design.",
-    "📊 Enhancing my skills in database management with MongoDB by learning about indexing, aggregation pipelines, and data modeling.",
-    "🔧 Exploring best practices and tools for full-stack development, including testing frameworks, deployment strategies, and performance optimization techniques.",
-    "📚 Keeping up-to-date with the latest trends and technologies in the MERN stack ecosystem through continuous learning and experimentation."
-  ],
-  contactMe: {
-    ✉️ Email: "arulmozhikumar7@gmail.com",
-  }
-};
-```
+<br/><br/>
+<h2 align="center">🐍 My Contributions 🐍</h2>
+  <br>
+<hr/>
+<div align="center">
+<img  src="https://raw.githubusercontent.com/arulmozhikumar7/arulmozhikumar7/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
+<hr/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=arulmozhikumar7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arulmozhikumar7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+<hr/>
+
+
